@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Haircut",
+    "description": "Professional haircut for men, women, and children.",
+    "price": "$25+"
+  },
+  {
+    "id": 2,
+    "name": "Hair Coloring",
+    "description": "Full color, highlights, balayage, or root touch-up.",
+    "price": "$50+"
+  },
+  {
+    "id": 3,
+    "name": "Hair Styling",
+    "description": "Blowouts, updos, and styling for special occasions.",
+    "price": "$30+"
+  },
+  {
+    "id": 4,
+    "name": "Hair Treatments",
+    "description": "Deep conditioning, keratin treatments, and repair services.",
+    "price": "$40+"
+  },
+  {
+    "id": 5,
+    "name": "Hair Extensions",
+    "description": "Professional installation of premium hair extensions.",
+    "price": "$100+"
+  },
+  {
+    "id": 6,
+    "name": "Perms & Straightening",
+    "description": "Chemical perms, relaxers, and straightening treatments.",
+    "price": "$60+"
+  },
+  {
+    "id": 7,
+    "name": "Scalp Treatments",
+    "description": "Therapeutic and exfoliating scalp treatments for healthy hair.",
+    "price": "$35+"
+  },
+  {
+    "id": 8,
+    "name": "Beard & Mustache Grooming",
+    "description": "Trimming and styling for a polished look.",
+    "price": "$15+"
+  }
+]
