@@ -12,6 +12,7 @@ export default function Home() {
       <Gallery />
       <Services />
       <Footer />
+      {}
     </main>
   );
 }
